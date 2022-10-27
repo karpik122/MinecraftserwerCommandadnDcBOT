@@ -1,0 +1,5 @@
+TOKEN: "Bot_token"
+Peefix: "!s"
+Reports_channel: ""
+##players who used the command
+UseCommands: " użył komendy "

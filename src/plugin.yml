@@ -1,0 +1,31 @@
+main: komendy.Main
+name: Komendy-discordBot
+version: 1.1.1
+author: karpik122
+api-version: 1.15
+
+commands:
+  report:
+  playtime:
+  alert:
+  pomoc:
+  komendy:
+  miasto:
+  panstwo:
+  slime:
+  inne:
+  ceny: 
+  discord:
+    aliases: [dc]
+  regulamin:
+  dynmapa:
+  ac:
+    aliases: [adminchat, adminc, cadmin]
+  rangi:
+  chat:
+    aliases: [c]
+  itemshop:
+  opisrang:
+  opisrangm:
+  opisrangp:
+  tagi:
